@@ -9,8 +9,8 @@ Design Features
  - Turtle Logo designed in multiple parts to allow layer changes (Assuming your BT isn't built when this is being printed).
  - Designed to fit a 350mm Wide printer / 5 Lane BoxTurtle.
 
-![Render](./images/render.png)
-![Photo](./images/photo_led.jpg)
+![Render](./Images/render.png)
+![Photo](./Images/photo_led.jpg)
 
 Assembly
 ===
