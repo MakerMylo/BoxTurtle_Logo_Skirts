@@ -10,7 +10,6 @@ Design Features
  - Designed to fit a 350mm Wide printer / 5 Lane BoxTurtle.
 
 ![Render](./Images/render.png)
-![Photo](./Images/photo_led.jpg)
 
 Assembly
 ===
@@ -24,6 +23,7 @@ Assembly
 
 Config
 ===
+![Photo](./Images/photo_led.jpg)
 Assuming you have LED Effects installed, add this to the bottom of your `AFC_Hardware.cfg` file to get the rainbow effect behind the logo.
 ```
 [neopixel bt_logo]
