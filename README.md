@@ -1,13 +1,21 @@
-BoxTurtle Logo Panel front Skirt
+BoxTurtle Logo Panel front skirt
 ===
 This is an alternative front skirt for the BoxTurtle that includes a logo panel that can be illuminated using the LED Matrix panel provided or printed in your 2 colours to be a static logo.
 
+Printing
+===
+- Pick a Size, `_5_bay` needs a 510mm Wide frame (I.e. Voron 2.4 350mm), `_4_bay` is standard BoxTurtle sizing.
+- Pick an LED Matrix Housing, `_back` & `_front` can be used for individual neopixels, `_blank` can be used for LED Strips (No Front needed on the blank one).
+- On the Left/Right & Middle panels set a layer height filament swap at 1.5mm (For the colour of your mesh), set the top/bottom layer of the mesh bodies to 0, tweek your infil for optimal results, mine is 17% Honeycomb at a 90 Degree angle to match the hexes, with 3 Walls for borders.
+- Printing the logo plate, you want the base to be clear and the top to be your primary colour, so do a filament change at 2.6mm. I recommend a very light infil and something that doesn't cross over to much, such as triangles.
+
 Design Features
+===
  - 17mm Wide, leaving 3mm on the inside of the BoxTurtle.
- - 1mm Thick mesh to allow a height range filament change at 1.2mm.
+ - 1mm Thick mesh to allow a height range filament change at 1.5mm.
  - Mesh designed as single Body to allow outer walls to be used.
  - Turtle Logo designed in multiple parts to allow layer changes (Assuming your BT isn't built when this is being printed).
- - Designed to fit a 350mm Wide printer / 5 Lane BoxTurtle.
+ - Supports are pre-added to all STL's
 
 ![Render](./Images/render.png)
 
@@ -19,7 +27,7 @@ Assembly
 
 3. Assemble your LED Matrix and screw this in from behind using 2x M3x6 Screws.
 
-4. Slide it into place on the printer.
+4. Slide it into place on the BoxTurtle
 
 Config
 ===
@@ -56,7 +64,8 @@ Every link in the Bill of Materials is an affiliate link, This costs you nothing
 
 Upcoming Changes
 ===
- - Standard 4 Lane Version *If you beat me to it, let me know and i'll add it here*
+ - ~~Standard 4 Lane Version~~ - DONE
+ - ~~Add Blank LED Matrix for use with LED Strips~~ - DONE
  - Slimmed down (17mm) Side Panels
 
 Thank Me
