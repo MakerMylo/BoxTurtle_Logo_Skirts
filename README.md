@@ -58,7 +58,7 @@ Every link in the Bill of Materials is an affiliate link, This costs you nothing
 
  - [2x M3x5x4 Heatset Inserts](https://s.click.aliexpress.com/e/_DdHrjjj)
  - [2x M3x6 Screws (Not FHCS)](https://s.click.aliexpress.com/e/_DEccKQd)
- - [11x Neopixel LEDs](https://s.click.aliexpress.com/e/_DEccKQd)
+ - [11x Neopixel LEDs](https://s.click.aliexpress.com/e/_DCKnF41)
  - [1m 26AWG Wire](https://s.click.aliexpress.com/e/_Dcg8I5b)
  - [1x JST-XHx3 Connector](https://s.click.aliexpress.com/e/_DE6E8Rn)
 
